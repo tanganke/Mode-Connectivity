@@ -16,6 +16,7 @@ This repo is a collection of AWESOME things about recent researches about Linear
 - (Three methods) Git Re-Basin: Merging Models modulo Permutation Symmetries. [[iclr23]](https://openreview.net/forum?id=CQsmMYmlP5T)[[codes]](https://github.com/samuela/git-re-basin)
 - Re-basin via implicit Sinkhorn differentiation. [[paper link]](https://arxiv.org/pdf/2212.12042.pdf) 
   - (Ref paper) A Unified Framework for Implicit Sinkhorn Differentiation. [[cvpr22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Eisenberger_A_Unified_Framework_for_Implicit_Sinkhorn_Differentiation_CVPR_2022_paper.pdf)[[codes]](https://github.com/marvin-eisenberger/implicit-sinkhorn)
+- Linear Mode Connectivity of Deep Neural Networks via Permutation Invariance and Renormalization. [[iclr23]](https://openreview.net/forum?id=gU5sJ6ZggcX)[[codes]](https://github.com/KellerJordan/REPAIR)
   
 ## Tools
 - Loss landscapes. [[pypi]](https://pypi.org/project/loss-landscapes)
