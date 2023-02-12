@@ -1,0 +1,17 @@
+# Linear-Mode-Connectivity
+
+This repo is a collection of AWESOME things about recent researches about Linear Mode Connectivity. Feel free to fork.
+
+![](https://img.shields.io/badge/Resources-@CLeaR_Unimelb-red.svg) ![](https://img.shields.io/badge/License-@MIT-green.svg)
+
+## The concept of LMC
+- Linear mode connectivity and the lottery ticket hypothesis. [[icml20]](http://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf)
+
+## Findings
+- (Width, Depth)(Simulated Annealing) The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks. [[iclr22]](https://openreview.net/forum?id=dNigytemkL)[[codes]](https://github.com/rahimentezari/PermutationInvariance)
+- (Initialisations) Random initialisations performing above chance and how to find them. [[Neurips22 OPT]](https://arxiv.org/pdf/2209.07509.pdf)[[codes]](https://github.com/freedbee/permuted_initialisations)
+
+## Methods
+- (Three methods) Git Re-Basin: Merging Models modulo Permutation Symmetries. [[iclr23]](https://openreview.net/forum?id=CQsmMYmlP5T)[[codes]](https://github.com/samuela/git-re-basin)
+- Re-basin via implicit Sinkhorn differentiation. [[paper link]](https://arxiv.org/pdf/2212.12042.pdf) 
+  - (Ref paper) A Unified Framework for Implicit Sinkhorn Differentiation. [[cvpr22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Eisenberger_A_Unified_Framework_for_Implicit_Sinkhorn_Differentiation_CVPR_2022_paper.pdf)[[codes]](https://github.com/marvin-eisenberger/implicit-sinkhorn)
