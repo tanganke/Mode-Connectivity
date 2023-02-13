@@ -14,7 +14,7 @@ This repo is a collection of AWESOME things about recent researches about Linear
 - (End point) On Convexity and Linear Mode Connectivity in Neural Networks. [[neurips22 OPT]](https://openreview.net/pdf?id=TZQ3PKL3fPr)
 
 ## Methods
-- （Neuro alignment）Optimizing Mode Connectivity via Neuron Alignment. [[neurips20]](https://proceedings.neurips.cc/paper/2020/file/aecad42329922dfc97eee948606e1f8e-Paper.pdf)[[codes]](https://github.com/IBM/NeuronAlignment)
+- (Neuro alignment)Optimizing Mode Connectivity via Neuron Alignment. [[neurips20]](https://proceedings.neurips.cc/paper/2020/file/aecad42329922dfc97eee948606e1f8e-Paper.pdf)[[codes]](https://github.com/IBM/NeuronAlignment)
 - (Three methods) Git Re-Basin: Merging Models modulo Permutation Symmetries. [[iclr23]](https://openreview.net/forum?id=CQsmMYmlP5T)[[codes]](https://github.com/samuela/git-re-basin)
 - Re-basin via implicit Sinkhorn differentiation. [[paper link]](https://arxiv.org/pdf/2212.12042.pdf) 
   - (Ref paper) A Unified Framework for Implicit Sinkhorn Differentiation. [[cvpr22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Eisenberger_A_Unified_Framework_for_Implicit_Sinkhorn_Differentiation_CVPR_2022_paper.pdf)[[codes]](https://github.com/marvin-eisenberger/implicit-sinkhorn)
