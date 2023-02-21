@@ -25,8 +25,10 @@ This repo is a collection of AWESOME things about recent researches about Linear
 - [Regression Mean merge] Dataless Knowledge Fusion by Merging Weights of Language Models. [[iclr2023]](https://openreview.net/forum?id=FCnohuR6AnM)
 
 ## Related paper
+- Exploring Mode Connectivity for Pre-trained Language Models. [[EMNLP22]](https://arxiv.org/pdf/2210.14102.pdf)[[codes]](https://github.com/thunlp/Mode-Connectivity-PLM)
 - Linear Connectivity Reveals Generalization Strategies. [[iclr23]](https://arxiv.org/pdf/2205.12411.pdf)[[codes]](https://github.com/anonwhymoos/connectivity)
 - Knowledge is a Region in Weight Space for Fine-tuned Language Models. [[paper23]](https://arxiv.org/pdf/2302.04863.pdf)
+- Model Ratatouille: Recycling Diverse Models for Out-of-Distribution Generalization. [[paper23]](https://arxiv.org/pdf/2212.10445.pdf)[[codes]](https://github.com/facebookresearch/ModelRatatouille)
 
 ## Tools
 - Loss landscapes. [[pypi]](https://pypi.org/project/loss-landscapes)
