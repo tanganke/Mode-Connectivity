@@ -1,6 +1,8 @@
-# Linear-Mode-Connectivity
+# Mode-Connectivity and Model-Merging
 
-This repo is a collection of AWESOME things about recent researches about Linear Mode Connectivity. Feel free to fork.
+This repo is a collection of AWESOME things about recent researches about Mode Connectivity, mainly about the linear connectivity. For the detailed methods side, we include papers which try to rebasin the different learned models. Obviously, model merging is a downstream taks which may benefit from the advances of the model connectivity research. Waited to be researched...
+
+Please feel free to fork.
 
 ![](https://img.shields.io/badge/Resources-@CLeaR_Unimelb-red.svg) ![](https://img.shields.io/badge/License-@MIT-green.svg)
 
