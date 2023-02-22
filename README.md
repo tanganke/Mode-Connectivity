@@ -15,7 +15,7 @@ Please feel free to fork.
 - (Initialisations) Random initialisations performing above chance and how to find them. [[Neurips22 OPT]](https://arxiv.org/pdf/2209.07509.pdf)[[codes]](https://github.com/freedbee/permuted_initialisations)
 - (Functional behaviors of end points) On Convexity and Linear Mode Connectivity in Neural Networks. [[neurips22 OPT]](https://openreview.net/pdf?id=TZQ3PKL3fPr)
 
-## Methods
+## Methods for rebasin
 - (Three methods) Git Re-Basin: Merging Models modulo Permutation Symmetries. [[iclr23]](https://openreview.net/forum?id=CQsmMYmlP5T)[[codes]](https://github.com/samuela/git-re-basin)
 - Re-basin via implicit Sinkhorn differentiation. [[paper22]](https://arxiv.org/pdf/2212.12042.pdf) 
   - (Ref paper) A Unified Framework for Implicit Sinkhorn Differentiation. [[cvpr22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Eisenberger_A_Unified_Framework_for_Implicit_Sinkhorn_Differentiation_CVPR_2022_paper.pdf)[[codes]](https://github.com/marvin-eisenberger/implicit-sinkhorn)
@@ -26,10 +26,13 @@ Please feel free to fork.
 - [Fisher merge] Merging Models with Fisher-Weighted Averaging. [[neurips22]](https://openreview.net/pdf?id=LSKlp_aceOC)[[codes]](https://github.com/mmatena/model_merging)
 - [Regression Mean merge] Dataless Knowledge Fusion by Merging Weights of Language Models. [[iclr2023]](https://openreview.net/forum?id=FCnohuR6AnM)
 
-## Related paper
+## Pretrained model connectivity
+- What is being transferred in transfer learning? [[neurips20]](https://proceedings.neurips.cc/paper/2020/file/0607f4c705595b911a4f3e7a127b44e0-Paper.pdf)[[codes]](https://github.com/google-research/understanding-transfer-learning)
 - Exploring Mode Connectivity for Pre-trained Language Models. [[EMNLP22]](https://arxiv.org/pdf/2210.14102.pdf)[[codes]](https://github.com/thunlp/Mode-Connectivity-PLM)
-- Linear Connectivity Reveals Generalization Strategies. [[iclr23]](https://arxiv.org/pdf/2205.12411.pdf)[[codes]](https://github.com/anonwhymoos/connectivity)
 - Knowledge is a Region in Weight Space for Fine-tuned Language Models. [[paper23]](https://arxiv.org/pdf/2302.04863.pdf)
+
+## Related paper
+- Linear Connectivity Reveals Generalization Strategies. [[iclr23]](https://arxiv.org/pdf/2205.12411.pdf)[[codes]](https://github.com/anonwhymoos/connectivity)
 - Model Ratatouille: Recycling Diverse Models for Out-of-Distribution Generalization. [[paper23]](https://arxiv.org/pdf/2212.10445.pdf)[[codes]](https://github.com/facebookresearch/ModelRatatouille)
 
 ## Tools
