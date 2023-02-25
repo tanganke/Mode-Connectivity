@@ -26,6 +26,7 @@ Please feel free to fork.
 - [Averaging merge] Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time. [[icml22]](https://proceedings.mlr.press/v162/wortsman22a/wortsman22a.pdf)[[codes]](https://github.com/mlfoundations/model-soups)
 - [Fisher merge] Merging Models with Fisher-Weighted Averaging. [[neurips22]](https://openreview.net/pdf?id=LSKlp_aceOC)[[codes]](https://github.com/mmatena/model_merging)
 - [Regression Mean merge] Dataless Knowledge Fusion by Merging Weights of Language Models. [[iclr2023]](https://openreview.net/forum?id=FCnohuR6AnM)
+- Wasserstein Barycenter-based Model Fusion and Linear Mode Connectivity of Neural Networks. [[paper23]](https://openreview.net/pdf?id=qHbyR1MKG8K)[[codes]](https://openreview.net/forum?id=qHbyR1MKG8K)
 
 ## Pretrained model connectivity
 - What is being transferred in transfer learning? [[neurips20]](https://proceedings.neurips.cc/paper/2020/file/0607f4c705595b911a4f3e7a127b44e0-Paper.pdf)[[codes]](https://github.com/google-research/understanding-transfer-learning)
