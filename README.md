@@ -14,6 +14,7 @@ Please feel free to fork.
 - (Width, Depth)(Simulated Annealing) The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks. [[iclr22]](https://openreview.net/forum?id=dNigytemkL)[[codes]](https://github.com/rahimentezari/PermutationInvariance)
 - (Initialisations) Random initialisations performing above chance and how to find them. [[Neurips22 OPT]](https://arxiv.org/pdf/2209.07509.pdf)[[codes]](https://github.com/freedbee/permuted_initialisations)
 - (Functional behaviors of end points) On Convexity and Linear Mode Connectivity in Neural Networks. [[neurips22 OPT]](https://openreview.net/pdf?id=TZQ3PKL3fPr)
+- Plateau in Monotonic Linear Interpolation -- A "Biased" View of Loss Landscape for Deep Networks. [[iclr23]](https://arxiv.org/abs/2210.01019)
 
 ## Methods for rebasin
 - (Three methods) Git Re-Basin: Merging Models modulo Permutation Symmetries. [[iclr23]](https://openreview.net/forum?id=CQsmMYmlP5T)[[codes]](https://github.com/samuela/git-re-basin)
