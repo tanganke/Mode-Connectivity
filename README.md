@@ -36,5 +36,9 @@ Please feel free to fork.
 - Linear Connectivity Reveals Generalization Strategies. [[iclr23]](https://arxiv.org/pdf/2205.12411.pdf)[[codes]](https://github.com/anonwhymoos/connectivity)
 - Model Ratatouille: Recycling Diverse Models for Out-of-Distribution Generalization. [[paper23]](https://arxiv.org/pdf/2212.10445.pdf)[[codes]](https://github.com/facebookresearch/ModelRatatouille)
 
+## Applications
+- (FL) Connecting Low-Loss Subspace for Personalized Federated Learning. [[kdd22]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539254)[[codes]](https://github.com/vaseline555/SuPerFed)
+- Linear Mode Connectivity in Multitask and Continual Learning. [[iclr21]](https://openreview.net/forum?id=Fmg_fQYUejf)[[codes]](https://github.com/imirzadeh/MC-SGD)
+
 ## Tools
 - Loss landscapes. [[pypi]](https://pypi.org/project/loss-landscapes)
