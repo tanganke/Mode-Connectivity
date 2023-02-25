@@ -15,6 +15,7 @@ Please feel free to fork.
 - (Initialisations) Random initialisations performing above chance and how to find them. [[Neurips22 OPT]](https://arxiv.org/pdf/2209.07509.pdf)[[codes]](https://github.com/freedbee/permuted_initialisations)
 - (Functional behaviors of end points) On Convexity and Linear Mode Connectivity in Neural Networks. [[neurips22 OPT]](https://openreview.net/pdf?id=TZQ3PKL3fPr)
 - Plateau in Monotonic Linear Interpolation -- A "Biased" View of Loss Landscape for Deep Networks. [[iclr23]](https://arxiv.org/abs/2210.01019)
+- Analyzing Monotonic Linear Interpolation in Neural Network Loss Landscapes. [[icml21]](http://proceedings.mlr.press/v139/lucas21a/lucas21a.pdf)[[codes]](https://github.com/AtheMathmo/mli-release)
 
 ## Methods for rebasin
 - (Three methods) Git Re-Basin: Merging Models modulo Permutation Symmetries. [[iclr23]](https://openreview.net/forum?id=CQsmMYmlP5T)[[codes]](https://github.com/samuela/git-re-basin)
@@ -40,6 +41,7 @@ Please feel free to fork.
 ## Applications
 - (FL) Connecting Low-Loss Subspace for Personalized Federated Learning. [[kdd22]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539254)[[codes]](https://github.com/vaseline555/SuPerFed)
 - Linear Mode Connectivity in Multitask and Continual Learning. [[iclr21]](https://openreview.net/forum?id=Fmg_fQYUejf)[[codes]](https://github.com/imirzadeh/MC-SGD)
+- All Roads Lead to Rome? On Invariance of BERT Representations. [[TACL23]](http://zhijing-jin.com/files/papers/BERTSimilarity_TACL2023.pdf)
 
 ## Tools
 - Loss landscapes. [[pypi]](https://pypi.org/project/loss-landscapes)
