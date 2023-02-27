@@ -44,6 +44,7 @@ Please feel free to fork.
 - (FL) Connecting Low-Loss Subspace for Personalized Federated Learning. [[kdd22]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539254)[[codes]](https://github.com/vaseline555/SuPerFed)
 - Linear Mode Connectivity in Multitask and Continual Learning. [[iclr21]](https://openreview.net/forum?id=Fmg_fQYUejf)[[codes]](https://github.com/imirzadeh/MC-SGD)
 - All Roads Lead to Rome? On Invariance of BERT Representations. [[TACL23]](http://zhijing-jin.com/files/papers/BERTSimilarity_TACL2023.pdf)
+- (Sparsity) Unmasking the Lottery Ticket Hypothesis: What's Encoded in a Winning Ticket's Mask? [[iclr23]](https://openreview.net/pdf?id=xSsW2Am-ukZ)
 
 ## Tools
 - Loss landscapes. [[pypi]](https://pypi.org/project/loss-landscapes)
