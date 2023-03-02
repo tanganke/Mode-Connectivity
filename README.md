@@ -20,8 +20,14 @@ Please feel free to fork.
 
   *Felix Draxler, Kambis Veschgini, Manfred Salmhofer, Fred A. Hamprecht* [[pdf]](http://proceedings.mlr.press/v80/draxler18a/draxler18a.pdf)[[codes]](https://github.com/fdraxler/PyTorch-AutoNEB)
  
-- Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances. [[icml21]](https://proceedings.mlr.press/v139/simsek21a/simsek21a.pdf)
-- (Width, Depth)(Simulated Annealing) The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks. [[iclr22]](https://openreview.net/forum?id=dNigytemkL)[[codes]](https://github.com/rahimentezari/PermutationInvariance)
+- **Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances.** [icml21]
+
+  *Berfin Şimşek, François Ged, Arthur Jacot, Francesco Spadaro, Clément Hongler, Wulfram Gerstner, Johanni Brea* [[paper]](https://proceedings.mlr.press/v139/simsek21a/simsek21a.pdf)[[codes]](https://github.com/EPFL-LCN/pub_simsek2021_icml)
+  
+- (Width, Depth)(Simulated Annealing) **The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks.** [iclr22]
+
+  *Rahim Entezari, Hanie Sedghi, Olga Saukh, Behnam Neyshabur* [[paper]](https://openreview.net/forum?id=dNigytemkL)[[codes]](https://github.com/rahimentezari/PermutationInvariance)
+  
 - (Initialisations) Random initialisations performing above chance and how to find them. [[Neurips22 OPT]](https://arxiv.org/pdf/2209.07509.pdf)[[codes]](https://github.com/freedbee/permuted_initialisations)
 - (Functional behaviors of end points) On Convexity and Linear Mode Connectivity in Neural Networks. [[neurips22 OPT]](https://openreview.net/pdf?id=TZQ3PKL3fPr)
 - Plateau in Monotonic Linear Interpolation -- A "Biased" View of Loss Landscape for Deep Networks. [[iclr23]](https://arxiv.org/abs/2210.01019)
