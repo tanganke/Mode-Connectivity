@@ -7,9 +7,9 @@ Please feel free to fork.
 ![](https://img.shields.io/badge/Resources-@CLeaR_Unimelb-red.svg) ![](https://img.shields.io/badge/License-@MIT-green.svg)
 
 ## The concept of LMC
-- **Linear mode connectivity and the lottery ticket hypothesis.** [icml20]
+- **Linear mode connectivity and the lottery ticket hypothesis.**
 
-  *Jonathan Frankle, Gintare Karolina Dziugaite, Daniel Roy, Michael Carbin* [[pdf]](http://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf)[[codes]](https://github.com/facebookresearch/open_lth)
+  *Jonathan Frankle, Gintare Karolina Dziugaite, Daniel Roy, Michael Carbin* [[ICML20]](http://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf)[[codes]](https://github.com/facebookresearch/open_lth)
 
 ## Geometric Properties
 - **Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs.** [Neurips18]
@@ -40,9 +40,18 @@ Please feel free to fork.
 - Linear Mode Connectivity of Deep Neural Networks via Permutation Invariance and Renormalization. [[iclr23]](https://openreview.net/forum?id=gU5sJ6ZggcX)[[codes]](https://github.com/KellerJordan/REPAIR)
 
 ## Model merging
-- [Averaging merge] Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time. [[icml22]](https://proceedings.mlr.press/v162/wortsman22a/wortsman22a.pdf)[[codes]](https://github.com/mlfoundations/model-soups)
-- Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling. [[icml21]](Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling)[[codes]](https://github.com/g-benton/loss-surface-simplexes)
-- :thumbsup: Learning Neural Network Subspaces. [[icml21]](http://proceedings.mlr.press/v139/wortsman21a/wortsman21a.pdf)[[codes]](https://github.com/apple/learning-subspaces)
+- [Averaging merge] **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time.** [icml22]
+
+  *Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S. Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith, Ludwig Schmidt* [[paper]](https://proceedings.mlr.press/v162/wortsman22a/wortsman22a.pdf)[[codes]](https://github.com/mlfoundations/model-soups)
+
+- **Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling.** [icml21]
+  
+  *Gregory W. Benton, Wesley J. Maddox, Sanae Lotfi, Andrew Gordon Wilson* [[paper]](http://proceedings.mlr.press/v139/benton21a/benton21a.pdf)[[codes]](https://github.com/g-benton/loss-surface-simplexes)
+ 
+- :thumbsup: **Learning Neural Network Subspaces.** [icml21]
+
+  *Mitchell Wortsman, Maxwell Horton, Carlos Guestrin, Ali Farhadi, Mohammad Rastegari* [[paper]](http://proceedings.mlr.press/v139/wortsman21a/wortsman21a.pdf)[[codes]](https://github.com/apple/learning-subspaces)
+
 - [Fisher merge] Merging Models with Fisher-Weighted Averaging. [[neurips22]](https://openreview.net/pdf?id=LSKlp_aceOC)[[codes]](https://github.com/mmatena/model_merging)
 - [Regression Mean merge] Dataless Knowledge Fusion by Merging Weights of Language Models. [[iclr2023]](https://openreview.net/forum?id=FCnohuR6AnM)
 - Wasserstein Barycenter-based Model Fusion and Linear Mode Connectivity of Neural Networks. [[paper23]](https://openreview.net/pdf?id=qHbyR1MKG8K)[[codes]](https://openreview.net/forum?id=qHbyR1MKG8K)
