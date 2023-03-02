@@ -36,6 +36,10 @@ Please feel free to fork.
 - Exploring Mode Connectivity for Pre-trained Language Models. [[EMNLP22]](https://arxiv.org/pdf/2210.14102.pdf)[[codes]](https://github.com/thunlp/Mode-Connectivity-PLM)
 - Knowledge is a Region in Weight Space for Fine-tuned Language Models. [[paper23]](https://arxiv.org/pdf/2302.04863.pdf)
 
+## Equivariant Network Design
+- Equivariant Architectures for Learning in Deep Weight Spaces. [[paper23]](https://arxiv.org/pdf/2301.12780.pdf)[[codes]](https://github.com/AvivNavon/DWSNets)
+- Permutation Equivariant Neural Functionals. [[paper23]](https://arxiv.org/pdf/2302.14040.pdf)
+
 ## Related paper
 - Linear Connectivity Reveals Generalization Strategies. [[iclr23]](https://arxiv.org/pdf/2205.12411.pdf)[[codes]](https://github.com/anonwhymoos/connectivity)
 - Model Ratatouille: Recycling Diverse Models for Out-of-Distribution Generalization. [[paper23]](https://arxiv.org/pdf/2212.10445.pdf)[[codes]](https://github.com/facebookresearch/ModelRatatouille)
