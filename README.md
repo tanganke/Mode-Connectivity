@@ -7,7 +7,9 @@ Please feel free to fork.
 ![](https://img.shields.io/badge/Resources-@CLeaR_Unimelb-red.svg) ![](https://img.shields.io/badge/License-@MIT-green.svg)
 
 ## The concept of LMC
-- Linear mode connectivity and the lottery ticket hypothesis. [[icml20]](http://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf)
+- **Linear mode connectivity and the lottery ticket hypothesis.** [icml20]
+
+  *Jonathan Frankle, Gintare Karolina Dziugaite, Daniel Roy, Michael Carbin* [[pdf]](http://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf)[[codes]](https://github.com/facebookresearch/open_lth)
 
 ## Geometric Properties
 - Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs. [[Neurips18]](https://proceedings.neurips.cc/paper/2018/file/be3087e74e9100d4bc4c6268cdbe8456-Paper.pdf)[[codes]](https://github.com/timgaripov/dnn-mode-connectivity)
