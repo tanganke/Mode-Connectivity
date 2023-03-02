@@ -18,7 +18,7 @@ Please feel free to fork.
 
 - **Essentially No Barriers in Neural Network Energy Landscape.** [icml18]
 
- *Felix Draxler, Kambis Veschgini, Manfred Salmhofer, Fred A. Hamprecht* [[pdf]](http://proceedings.mlr.press/v80/draxler18a/draxler18a.pdf)[[codes]](https://github.com/fdraxler/PyTorch-AutoNEB)
+  *Felix Draxler, Kambis Veschgini, Manfred Salmhofer, Fred A. Hamprecht* [[pdf]](http://proceedings.mlr.press/v80/draxler18a/draxler18a.pdf)[[codes]](https://github.com/fdraxler/PyTorch-AutoNEB)
  
 - Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances. [[icml21]](https://proceedings.mlr.press/v139/simsek21a/simsek21a.pdf)
 - (Width, Depth)(Simulated Annealing) The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks. [[iclr22]](https://openreview.net/forum?id=dNigytemkL)[[codes]](https://github.com/rahimentezari/PermutationInvariance)
