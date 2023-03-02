@@ -18,7 +18,7 @@ Please feel free to fork.
 - Analyzing Monotonic Linear Interpolation in Neural Network Loss Landscapes. [[icml21]](http://proceedings.mlr.press/v139/lucas21a/lucas21a.pdf)[[codes]](https://github.com/AtheMathmo/mli-release)
 
 ## Methods for rebasin
-- (Three methods) Git Re-Basin: Merging Models modulo Permutation Symmetries. [[iclr23]](https://openreview.net/forum?id=CQsmMYmlP5T)[[codes]](https://github.com/samuela/git-re-basin)
+- 🔥 (Three methods) Git Re-Basin: Merging Models modulo Permutation Symmetries. [[iclr23]](https://openreview.net/forum?id=CQsmMYmlP5T)[[codes]](https://github.com/samuela/git-re-basin)
 - Re-basin via implicit Sinkhorn differentiation. [[paper22]](https://arxiv.org/pdf/2212.12042.pdf) 
   - (Ref paper) A Unified Framework for Implicit Sinkhorn Differentiation. [[cvpr22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Eisenberger_A_Unified_Framework_for_Implicit_Sinkhorn_Differentiation_CVPR_2022_paper.pdf)[[codes]](https://github.com/marvin-eisenberger/implicit-sinkhorn)
 - Linear Mode Connectivity of Deep Neural Networks via Permutation Invariance and Renormalization. [[iclr23]](https://openreview.net/forum?id=gU5sJ6ZggcX)[[codes]](https://github.com/KellerJordan/REPAIR)
@@ -37,8 +37,8 @@ Please feel free to fork.
 - Knowledge is a Region in Weight Space for Fine-tuned Language Models. [[paper23]](https://arxiv.org/pdf/2302.04863.pdf)
 
 ## Equivariant Network Design
-- Equivariant Architectures for Learning in Deep Weight Spaces. [[paper23]](https://arxiv.org/pdf/2301.12780.pdf)[[codes]](https://github.com/AvivNavon/DWSNets)
-- Permutation Equivariant Neural Functionals. [[paper23]](https://arxiv.org/pdf/2302.14040.pdf)
+- 👀 Equivariant Architectures for Learning in Deep Weight Spaces. [[paper23]](https://arxiv.org/pdf/2301.12780.pdf)[[codes]](https://github.com/AvivNavon/DWSNets)
+- 👀 Permutation Equivariant Neural Functionals. [[paper23]](https://arxiv.org/pdf/2302.14040.pdf)
 
 ## Related paper
 - Linear Connectivity Reveals Generalization Strategies. [[iclr23]](https://arxiv.org/pdf/2205.12411.pdf)[[codes]](https://github.com/anonwhymoos/connectivity)
