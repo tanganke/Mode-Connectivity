@@ -62,21 +62,25 @@ Please feel free to fork.
   *Rahim Entezari, Hanie Sedghi, Olga Saukh, Behnam Neyshabur* [[ICLR23]](https://openreview.net/forum?id=gU5sJ6ZggcX)[[codes]](https://github.com/KellerJordan/REPAIR)
 
 ## Model merging
- - :thumbsup: [Stochastic Weight Averaging] **Averaging Weights Leads to Wider Optima and Better Generalization.**
+ - :thumbsup: [Stochastic Weight Averaging] **Averaging Weights Leads to Wider Optima and Better Generalization.** 
  
    *Pavel Izmailov, Dmitrii Podoprikhin, Timur Garipov, Dmitry Vetrov, Andrew Gordon Wilson* [[UAI18]](http://auai.org/uai2018/proceedings/papers/313.pdf)[[codes]](https://github.com/timgaripov/swa)
 
-- [Averaging merge] **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time.**
+- [Averaging merge] **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time.** ![](https://img.shields.io/badge/Large_Model-green)
 
   *Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S. Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith, Ludwig Schmidt* [[ICML22]](https://proceedings.mlr.press/v162/wortsman22a/wortsman22a.pdf)[[codes]](https://github.com/mlfoundations/model-soups)
 
-- **lo-fi: distributed fine-tuning without communication.** ![](https://img.shields.io/badge/Pretrained_connectivity-blue)
+- **lo-fi: distributed fine-tuning without communication.** ![](https://img.shields.io/badge/Pretrained_connectivity-blue) ![](https://img.shields.io/badge/Large_Model-green)
 
   *Mitchell Wortsman, Suchin Gururangan, Shen Li, Ali Farhadi, Ludwig Schmidt, Micheal Rabbat, Ari S. Morcos* [[TMLR23]](https://openreview.net/pdf?id=1U0aPkBVz0)
  
 - :thumbsup: **Learning Neural Network Subspaces.**
 
   *Mitchell Wortsman, Maxwell Horton, Carlos Guestrin, Ali Farhadi, Mohammad Rastegari* [[ICML21]](http://proceedings.mlr.press/v139/wortsman21a/wortsman21a.pdf)[[codes]](https://github.com/apple/learning-subspaces)
+
+- **Robust fine-tuning of zero-shot models.** ![](https://img.shields.io/badge/Large_Model-green)
+
+  *Mitchell Wortsman, Gabriel Ilharco, Jong Wook Kim, Mike Li, Simon Kornblith, Rebecca Roelofs, Raphael Gontijo-Lopes, Hannaneh Hajishirzi, Ali Farhadi, Hongseok Namkoong, Ludwig Schmidt* [[CVPR22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wortsman_Robust_Fine-Tuning_of_Zero-Shot_Models_CVPR_2022_paper.pdf)[[codes]](https://github.com/mlfoundations/wise-ft)
   
  - :eyes: **Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling.**
   
@@ -86,7 +90,7 @@ Please feel free to fork.
   
   *Michael Matena, Colin Raffel* [[NeurIPS22]](https://openreview.net/pdf?id=LSKlp_aceOC)[[codes]](https://github.com/mmatena/model_merging)
   
-- [Regression Mean merge] **Dataless Knowledge Fusion by Merging Weights of Language Models.** 
+- [Regression Mean merge] **Dataless Knowledge Fusion by Merging Weights of Language Models.** ![](https://img.shields.io/badge/Large_Model-green)
   
   *Xisen Jin, Xiang Ren, Daniel Preotiuc-Pietro, Pengxiang Cheng* [[ICLR23]](https://openreview.net/forum?id=FCnohuR6AnM)
   
@@ -99,11 +103,11 @@ Please feel free to fork.
 
   *Behnam Neyshabur, Hanie Sedghi, Chiyuan Zhang* [[NeurIPS20]](https://proceedings.neurips.cc/paper/2020/file/0607f4c705595b911a4f3e7a127b44e0-Paper.pdf)[[codes]](https://github.com/google-research/understanding-transfer-learning)
   
-- **Exploring Mode Connectivity for Pre-trained Language Models.**
+- **Exploring Mode Connectivity for Pre-trained Language Models.** ![](https://img.shields.io/badge/Large_Model-green)
   
   *Yujia Qin, Cheng Qian, Jing Yi, Weize Chen, Yankai Lin, Xu Han, Zhiyuan Liu, Maosong Sun, Jie Zhou* [[EMNLP22]](https://arxiv.org/pdf/2210.14102.pdf)[[codes]](https://github.com/thunlp/Mode-Connectivity-PLM)
   
-- **Knowledge is a Region in Weight Space for Fine-tuned Language Models.** 
+- **Knowledge is a Region in Weight Space for Fine-tuned Language Models.** ![](https://img.shields.io/badge/Large_Model-green)
   
   *Almog Gueta, Elad Venezian, Colin Raffel, Noam Slonim, Yoav Katz, Leshem Choshen* [[paper23]](https://arxiv.org/pdf/2302.04863.pdf)
 
@@ -142,7 +146,7 @@ Please feel free to fork.
 
   *Seyed Iman Mirzadeh, Mehrdad Farajtabar, Dilan Gorur, Razvan Pascanu, Hassan Ghasemzadeh* [[ICLR21]](https://openreview.net/forum?id=Fmg_fQYUejf)[[codes]](https://github.com/imirzadeh/MC-SGD)
   
-- **All Roads Lead to Rome? On Invariance of BERT Representations.** 
+- **All Roads Lead to Rome? On Invariance of BERT Representations.** ![](https://img.shields.io/badge/Large_Model-green)
 
   *Yuxin Ren, Qipeng Guo, Zhijing Jin, Shauli Ravfogel, Mrinmaya Sachan, Ryan Cotterell, Bernhard Schölkopf* [[TACL23]](http://zhijing-jin.com/files/papers/BERTSimilarity_TACL2023.pdf)
   
