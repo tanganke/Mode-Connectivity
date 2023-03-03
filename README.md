@@ -129,10 +129,6 @@ Please feel free to fork.
 
   *Pierre Foret, Ariel Kleiner, Hossein Mobahi, Behnam Neyshabur* [[ICLR21]](https://arxiv.org/pdf/2010.01412.pdf)[[codes]](https://github.com/google-research/sam)
   
-- **Linear Connectivity Reveals Generalization Strategies.** 
-  
-  *Jeevesh Juneja, Rachit Bansal, Kyunghyun Cho, João Sedoc, Naomi Saphra* [[ICLR23]](https://arxiv.org/pdf/2205.12411.pdf)[[codes]](https://github.com/anonwhymoos/connectivity)
-  
 - **Model Ratatouille: Recycling Diverse Models for Out-of-Distribution Generalization.**
 
   *Alexandre Ramé, Kartik Ahuja, Jianyu Zhang, Matthieu Cord, Léon Bottou, David Lopez-Paz* [[paper23]](https://arxiv.org/pdf/2212.10445.pdf)[[codes]](https://github.com/facebookresearch/ModelRatatouille)
@@ -162,5 +158,21 @@ Please feel free to fork.
 
   *Mansheej Paul, Feng Chen, Brett W. Larsen, Jonathan Frankle, Surya Ganguli, Gintare Karolina Dziugaite* [[ICLR23]](https://openreview.net/pdf?id=xSsW2Am-ukZ)
 
+- :eyes: **Improving Ensemble Distillation With Weight Averaging and Diversifying Perturbation.**
+
+  *Giung Nam, Hyungi Lee, Byeongho Heo, Juho Lee* [[ICML22]](https://arxiv.org/pdf/2206.15047.pdf)[[codes]](https://github.com/cs-giung/distill-latentbe)
+
+- **LCS: Learning Compressible Subspaces for Efficient, Adaptive, Real-Time Network Compression at Inference Time**
+
+  *Elvis Nunez, Maxwell Horton, Anish Prabhu, Anurag Ranjan, Ali Farhadi, Mohammad Rastegari*[[WACV23]](https://openaccess.thecvf.com/content/WACV2023/papers/Nunez_LCS_Learning_Compressible_Subspaces_for_Efficient_Adaptive_Real-Time_Network_Compression_WACV_2023_paper.pdf)[[codes]](https://github.com/apple/learning-compressible-subspaces)
+ 
+- (OOD) **Diverse Weight Averaging for Out-of-Distribution Generalization**
+
+  *Alexandre Ramé, Matthieu Kirchmeyer, Thibaud Rahier, Alain Rakotomamonjy, Patrick Gallinari, Matthieu Cord*[[NeurIPS22]](https://arxiv.org/pdf/2205.09739.pdf)[[codes]](https://github.com/alexrame/diwa)
+
+- **Linear Connectivity Reveals Generalization Strategies.** 
+  
+  *Jeevesh Juneja, Rachit Bansal, Kyunghyun Cho, João Sedoc, Naomi Saphra* [[ICLR23]](https://arxiv.org/pdf/2205.12411.pdf)[[codes]](https://github.com/anonwhymoos/connectivity)
+  
 ## Tools
 - **Loss landscapes.** [[pypi]](https://pypi.org/project/loss-landscapes)
