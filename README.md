@@ -45,7 +45,7 @@ Please feel free to fork.
   *James Lucas, Juhan Bae, Michael R. Zhang, Stanislav Fort, Richard Zemel, Roger Grosse* [[ICML21]](http://proceedings.mlr.press/v139/lucas21a/lucas21a.pdf)[[codes]](https://github.com/AtheMathmo/mli-release)
 
 ## Methods for rebasin
-- 🔥 (Three methods) **Git Re-Basin: Merging Models modulo Permutation Symmetries.** 
+- 🔥 :thumbsup: (Three methods) **Git Re-Basin: Merging Models modulo Permutation Symmetries.** 
 
   *Samuel K. Ainsworth, Jonathan Hayase, Siddhartha Srinivasa* [[ICLR23]](https://openreview.net/forum?id=CQsmMYmlP5T)[[codes]](https://github.com/samuela/git-re-basin)[[pytorch]](https://github.com/themrzmaster/git-re-basin-pytorch)
   
@@ -58,6 +58,10 @@ Please feel free to fork.
   *Rahim Entezari, Hanie Sedghi, Olga Saukh, Behnam Neyshabur* [[ICLR23]](https://openreview.net/forum?id=gU5sJ6ZggcX)[[codes]](https://github.com/KellerJordan/REPAIR)
 
 ## Model merging
+ - :thumbsup: [Stochastic Weight Averaging] **Averaging Weights Leads to Wider Optima and Better Generalization.**
+ 
+   *Pavel Izmailov, Dmitrii Podoprikhin, Timur Garipov, Dmitry Vetrov, Andrew Gordon Wilson* [[UAI18]](http://auai.org/uai2018/proceedings/papers/313.pdf)[[codes]](https://github.com/timgaripov/swa)
+
 - [Averaging merge] **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time.** [icml22]
 
   *Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S. Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith, Ludwig Schmidt* [[paper]](https://proceedings.mlr.press/v162/wortsman22a/wortsman22a.pdf)[[codes]](https://github.com/mlfoundations/model-soups)
