@@ -66,7 +66,7 @@ Please feel free to fork.
 
   *Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S. Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith, Ludwig Schmidt* [[ICML22]](https://proceedings.mlr.press/v162/wortsman22a/wortsman22a.pdf)[[codes]](https://github.com/mlfoundations/model-soups)
 
-- **lo-fi: distributed fine-tuning without communication.**
+- **lo-fi: distributed fine-tuning without communication.** ![](https://img.shields.io/badge/Pretrained_connectivity-blue)
 
   *Mitchell Wortsman, Suchin Gururangan, Shen Li, Ali Farhadi, Ludwig Schmidt, Micheal Rabbat, Ari S. Morcos* [[TMLR23]](https://openreview.net/pdf?id=1U0aPkBVz0)
  
