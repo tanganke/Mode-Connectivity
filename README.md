@@ -1,6 +1,6 @@
-# Mode-Connectivity and Model-Merging
+# Mode-Connectivity
 
-This repo is a collection of AWESOME things about recent researches about Mode Connectivity, mainly about the linear connectivity. For the detailed methods side, we include papers which try to rebasin the different learned models. Obviously, model merging is a downstream taks which may benefit from the advances of the model connectivity research. Waited to be researched...
+This repo is a collection of AWESOME things about recent researches about Mode Connectivity, mainly about the findings of Geometric Properties of learned neural networks. For the detailed methods side, we include papers which try to rebasin the different learned models and how to directly induce a better model (generalization) from one-shot training. For the application side, downstream taks such as federated learning, continual learning and sparse neural network which may potentially benefit from the advances of the model connectivity research. Waited to be researched...
 
 Please feel free to fork.
 
