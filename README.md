@@ -19,6 +19,10 @@ Please feel free to fork.
 - **Essentially No Barriers in Neural Network Energy Landscape.** ![](https://img.shields.io/badge/Nonlinear_Connectivity-blue)
 
   *Felix Draxler, Kambis Veschgini, Manfred Salmhofer, Fred A. Hamprecht* [[ICML18]](http://proceedings.mlr.press/v80/draxler18a/draxler18a.pdf)[[codes]](https://github.com/fdraxler/PyTorch-AutoNEB)
+
+- **Large Scale Structure of Neural Network Loss Landscapes.**
+
+  *Stanislav Fort, Stanislaw Jastrzebski* [[NeurIPS19]](https://openreview.net/pdf?id=rJe_i4rxIS)
  
 - **Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances.**
 
