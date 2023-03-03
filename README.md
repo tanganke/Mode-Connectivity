@@ -7,16 +7,16 @@ Please feel free to fork.
 ![](https://img.shields.io/badge/Resources-@CLeaR_Unimelb-red.svg) ![](https://img.shields.io/badge/License-@MIT-green.svg)
 
 ## The concept of LMC
-- **Linear mode connectivity and the lottery ticket hypothesis.** ![](https://img.shields.io/badge/Linear Connectivity-red)
+- **Linear mode connectivity and the lottery ticket hypothesis.** ![](https://img.shields.io/badge/Linear-Connectivity-red)
 
   *Jonathan Frankle, Gintare Karolina Dziugaite, Daniel Roy, Michael Carbin* [[ICML20]](http://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf)[[codes]](https://github.com/facebookresearch/open_lth)
 
 ## Geometric Properties
-- **Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs.** ![](https://img.shields.io/badge/Nonlinear Connectivity-red)
+- **Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs.** ![](https://img.shields.io/badge/Nonlinear-Connectivity-red)
   
   *Timur Garipov, Pavel Izmailov, Dmitrii Podoprikhin, Dmitry Vetrov, Andrew Gordon Wilson* [[Neurips18]](https://proceedings.neurips.cc/paper/2018/file/be3087e74e9100d4bc4c6268cdbe8456-Paper.pdf)[[codes]](https://github.com/timgaripov/dnn-mode-connectivity)
 
-- **Essentially No Barriers in Neural Network Energy Landscape.** ![](https://img.shields.io/badge/Nonlinear Connectivity-red)
+- **Essentially No Barriers in Neural Network Energy Landscape.** ![](https://img.shields.io/badge/Nonlinear-Connectivity-red)
 
   *Felix Draxler, Kambis Veschgini, Manfred Salmhofer, Fred A. Hamprecht* [[ICML18]](http://proceedings.mlr.press/v80/draxler18a/draxler18a.pdf)[[codes]](https://github.com/fdraxler/PyTorch-AutoNEB)
  
