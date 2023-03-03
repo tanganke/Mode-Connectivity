@@ -7,16 +7,16 @@ Please feel free to fork.
 ![](https://img.shields.io/badge/Resources-@CLeaR_Unimelb-red.svg) ![](https://img.shields.io/badge/License-@MIT-green.svg)
 
 ## The concept of LMC
-- **Linear mode connectivity and the lottery ticket hypothesis.** ![](https://img.shields.io/badge/Linear_Connectivity-red)
+- **Linear mode connectivity and the lottery ticket hypothesis.** ![](https://img.shields.io/badge/Linear_Connectivity-blue)
 
   *Jonathan Frankle, Gintare Karolina Dziugaite, Daniel Roy, Michael Carbin* [[ICML20]](http://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf)[[codes]](https://github.com/facebookresearch/open_lth)
 
 ## Geometric Properties
-- **Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs.** ![](https://img.shields.io/badge/Nonlinear_Connectivity-red)
+- **Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs.** ![](https://img.shields.io/badge/Nonlinear_Connectivity-blue)
   
   *Timur Garipov, Pavel Izmailov, Dmitrii Podoprikhin, Dmitry Vetrov, Andrew Gordon Wilson* [[Neurips18]](https://proceedings.neurips.cc/paper/2018/file/be3087e74e9100d4bc4c6268cdbe8456-Paper.pdf)[[codes]](https://github.com/timgaripov/dnn-mode-connectivity)
 
-- **Essentially No Barriers in Neural Network Energy Landscape.** ![](https://img.shields.io/badge/Nonlinear_Connectivity-red)
+- **Essentially No Barriers in Neural Network Energy Landscape.** ![](https://img.shields.io/badge/Nonlinear_Connectivity-blue)
 
   *Felix Draxler, Kambis Veschgini, Manfred Salmhofer, Fred A. Hamprecht* [[ICML18]](http://proceedings.mlr.press/v80/draxler18a/draxler18a.pdf)[[codes]](https://github.com/fdraxler/PyTorch-AutoNEB)
  
@@ -109,11 +109,11 @@ Please feel free to fork.
   *Allan Zhou, Kaien Yang, Kaylee Burns, Yiding Jiang, Samuel Sokota, J. Zico Kolter, Chelsea Finn* [[paper23]](https://arxiv.org/pdf/2302.14040.pdf)
 
 ## Related paper
-- **Entropy-SGD optimizes the prior of a PAC-Bayes bound: Generalization properties of Entropy-SGD and data-dependent priors.** ![](https://img.shields.io/badge/Smoothness_Generalization-red)
+- **Entropy-SGD optimizes the prior of a PAC-Bayes bound: Generalization properties of Entropy-SGD and data-dependent priors.** ![](https://img.shields.io/badge/Smoothness_Generalization-blue)
 
   *Gintare Karolina Dziugaite, Daniel Roy* [[ICML18]](http://proceedings.mlr.press/v80/dziugaite18a/dziugaite18a.pdf)
 
-- **Sharpness-Aware Minimization for Efficiently Improving Generalization.** ![](https://img.shields.io/badge/Smoothness_Generalization-red)
+- **Sharpness-Aware Minimization for Efficiently Improving Generalization.** ![](https://img.shields.io/badge/Smoothness_Generalization-blue)
 
   *Pierre Foret, Ariel Kleiner, Hossein Mobahi, Behnam Neyshabur* [[ICLR21]](https://arxiv.org/pdf/2010.01412.pdf)[[codes]](https://github.com/google-research/sam)
   
