@@ -109,6 +109,14 @@ Please feel free to fork.
   *Allan Zhou, Kaien Yang, Kaylee Burns, Yiding Jiang, Samuel Sokota, J. Zico Kolter, Chelsea Finn* [[paper23]](https://arxiv.org/pdf/2302.14040.pdf)
 
 ## Related paper
+- **Entropy-SGD optimizes the prior of a PAC-Bayes bound: Generalization properties of Entropy-SGD and data-dependent priors.** ![](https://img.shields.io/badge/Smoothness_Generalization-red)
+
+  *Gintare Karolina Dziugaite, Daniel Roy* [[ICML18]](http://proceedings.mlr.press/v80/dziugaite18a/dziugaite18a.pdf)
+
+- **Sharpness-Aware Minimization for Efficiently Improving Generalization.** ![](https://img.shields.io/badge/Smoothness_Generalization-red)
+
+  *Pierre Foret, Ariel Kleiner, Hossein Mobahi, Behnam Neyshabur* [[ICLR21]](https://arxiv.org/pdf/2010.01412.pdf)[[codes]](https://github.com/google-research/sam)
+  
 - **Linear Connectivity Reveals Generalization Strategies.** 
   
   *Jeevesh Juneja, Rachit Bansal, Kyunghyun Cho, João Sedoc, Naomi Saphra* [[ICLR23]](https://arxiv.org/pdf/2205.12411.pdf)[[codes]](https://github.com/anonwhymoos/connectivity)
