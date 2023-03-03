@@ -65,6 +65,10 @@ Please feel free to fork.
 - [Averaging merge] **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time.**
 
   *Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S. Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith, Ludwig Schmidt* [[ICML22]](https://proceedings.mlr.press/v162/wortsman22a/wortsman22a.pdf)[[codes]](https://github.com/mlfoundations/model-soups)
+
+- **lo-fi: distributed fine-tuning without communication.**
+
+  *Mitchell Wortsman, Suchin Gururangan, Shen Li, Ali Farhadi, Ludwig Schmidt, Micheal Rabbat, Ari S. Morcos* [[TMLR23]](https://openreview.net/pdf?id=1U0aPkBVz0)
  
 - :thumbsup: **Learning Neural Network Subspaces.**
 
