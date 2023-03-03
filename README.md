@@ -65,14 +65,14 @@ Please feel free to fork.
 - [Averaging merge] **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time.**
 
   *Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S. Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith, Ludwig Schmidt* [[ICML22]](https://proceedings.mlr.press/v162/wortsman22a/wortsman22a.pdf)[[codes]](https://github.com/mlfoundations/model-soups)
-
-- **Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling.**
-  
-  *Gregory W. Benton, Wesley J. Maddox, Sanae Lotfi, Andrew Gordon Wilson* [[ICML21]](http://proceedings.mlr.press/v139/benton21a/benton21a.pdf)[[codes]](https://github.com/g-benton/loss-surface-simplexes)
  
 - :thumbsup: **Learning Neural Network Subspaces.**
 
   *Mitchell Wortsman, Maxwell Horton, Carlos Guestrin, Ali Farhadi, Mohammad Rastegari* [[ICML21]](http://proceedings.mlr.press/v139/wortsman21a/wortsman21a.pdf)[[codes]](https://github.com/apple/learning-subspaces)
+  
+ - :eyes: **Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling.**
+  
+   *Gregory W. Benton, Wesley J. Maddox, Sanae Lotfi, Andrew Gordon Wilson* [[ICML21]](http://proceedings.mlr.press/v139/benton21a/benton21a.pdf)[[codes]](https://github.com/g-benton/loss-surface-simplexes)
 
 - [Fisher merge] **Merging Models with Fisher-Weighted Averaging.**
   
