@@ -138,6 +138,14 @@ Please feel free to fork.
 
   *Yuxin Ren, Qipeng Guo, Zhijing Jin, Shauli Ravfogel, Mrinmaya Sachan, Ryan Cotterell, Bernhard Schölkopf* [[TACL23]](http://zhijing-jin.com/files/papers/BERTSimilarity_TACL2023.pdf)
   
+- (Meta Learning) **Subspace Learning for Effective Meta-Learning.**
+
+  *Weisen Jiang, James Kwok, Yu Zhang* [[ICML22]](https://proceedings.mlr.press/v162/jiang22b/jiang22b.pdf)[[codes]](https://openreview.net/forum?id=C_RTGckbu-A)
+
+- (Incremental Learning) **Towards better plasticity-stability trade-off in incremental learning: a simple linear connector.**
+
+  *Guoliang Lin, Hanlu Chu, Hanjiang Lai* [[CVPR22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Towards_Better_Plasticity-Stability_Trade-Off_in_Incremental_Learning_A_Simple_Linear_CVPR_2022_paper.pdf)[[codes]](https://github.com/lingl1024/Connector)
+  
 - :thumbsup: (Sparsity) **Unmasking the Lottery Ticket Hypothesis: What's Encoded in a Winning Ticket's Mask?** 
 
   *Mansheej Paul, Feng Chen, Brett W. Larsen, Jonathan Frankle, Surya Ganguli, Gintare Karolina Dziugaite* [[ICLR23]](https://openreview.net/pdf?id=xSsW2Am-ukZ)
