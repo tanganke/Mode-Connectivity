@@ -13,22 +13,6 @@ Please feel free to fork.
 
   *C. Daniel Freeman, Joan Bruna* [[ICLR17]](https://openreview.net/pdf?id=Bk0FWVcgx)
 
-- **Linear mode connectivity and the lottery ticket hypothesis.** ![](https://img.shields.io/badge/Linear_Connectivity-blue)
-
-  *Jonathan Frankle, Gintare Karolina Dziugaite, Daniel Roy, Michael Carbin* [[ICML20]](http://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf)[[codes]](https://github.com/facebookresearch/open_lth)
-
-- (Functional behaviors of end points) **On Convexity and Linear Mode Connectivity in Neural Networks.** 
-
-  *David Yunis, Kumar Kshitij Patel, Pedro Henrique Pamplona Savarese, Gal Vardi, Jonathan Frankle, Matthew Walter, Karen Livescu, Michael Maire* [[NeurIPS22 OPT]](https://openreview.net/pdf?id=TZQ3PKL3fPr)
-  
-- **Plateau in Monotonic Linear Interpolation -- A "Biased" View of Loss Landscape for Deep Networks.** 
-
-  *Xiang Wang, Annie N. Wang, Mo Zhou, Rong Ge* [[ICLR23]](https://arxiv.org/abs/2210.01019)
-  
-- **Analyzing Monotonic Linear Interpolation in Neural Network Loss Landscapes.** 
-
-  *James Lucas, Juhan Bae, Michael R. Zhang, Stanislav Fort, Richard Zemel, Roger Grosse* [[ICML21]](http://proceedings.mlr.press/v139/lucas21a/lucas21a.pdf)[[codes]](https://github.com/AtheMathmo/mli-release)
-
 ### The Nonlienar MC
 - **Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs.** ![](https://img.shields.io/badge/Nonlinear_Connectivity-blue)
   
@@ -38,14 +22,11 @@ Please feel free to fork.
 
   *Felix Draxler, Kambis Veschgini, Manfred Salmhofer, Fred A. Hamprecht* [[ICML18]](http://proceedings.mlr.press/v80/draxler18a/draxler18a.pdf)[[codes]](https://github.com/fdraxler/PyTorch-AutoNEB)
 
-- **Large Scale Structure of Neural Network Loss Landscapes.**
-
-  *Stanislav Fort, Stanislaw Jastrzebski* [[NeurIPS19]](https://openreview.net/pdf?id=rJe_i4rxIS)
-
  - :eyes: **Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling.**
   
    *Gregory W. Benton, Wesley J. Maddox, Sanae Lotfi, Andrew Gordon Wilson* [[ICML21]](http://proceedings.mlr.press/v139/benton21a/benton21a.pdf)[[codes]](https://github.com/g-benton/loss-surface-simplexes)
 
+### Findings
 - **Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances.**
 
   *Berfin Şimşek, François Ged, Arthur Jacot, Francesco Spadaro, Clément Hongler, Wulfram Gerstner, Johanni Brea* [[ICML21]](https://proceedings.mlr.press/v139/simsek21a/simsek21a.pdf)[[codes]](https://github.com/EPFL-LCN/pub_simsek2021_icml)
@@ -53,6 +34,31 @@ Please feel free to fork.
 - (Initialisations) **Random initialisations performing above chance and how to find them.** 
 
   *Frederik Benzing, Simon Schug, Robert Meier, Johannes von Oswald, Yassir Akram, Nicolas Zucchet, Laurence Aitchison, Angelika Steger* [[NeurIPS22 OPT]](https://arxiv.org/pdf/2209.07509.pdf)[[codes]](https://github.com/freedbee/permuted_initialisations)
+
+- **Linear mode connectivity and the lottery ticket hypothesis.** ![](https://img.shields.io/badge/Linear_Connectivity-blue)
+
+  *Jonathan Frankle, Gintare Karolina Dziugaite, Daniel Roy, Michael Carbin* [[ICML20]](http://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf)[[codes]](https://github.com/facebookresearch/open_lth)
+
+- (Functional behaviors of end points) **On Convexity and Linear Mode Connectivity in Neural Networks.** 
+
+  *David Yunis, Kumar Kshitij Patel, Pedro Henrique Pamplona Savarese, Gal Vardi, Jonathan Frankle, Matthew Walter, Karen Livescu, Michael Maire* [[NeurIPS22 OPT]](https://openreview.net/pdf?id=TZQ3PKL3fPr)
+
+- **Large Scale Structure of Neural Network Loss Landscapes.**
+
+  *Stanislav Fort, Stanislaw Jastrzebski* [[NeurIPS19]](https://openreview.net/pdf?id=rJe_i4rxIS)
+  
+- **Plateau in Monotonic Linear Interpolation -- A "Biased" View of Loss Landscape for Deep Networks.** 
+
+  *Xiang Wang, Annie N. Wang, Mo Zhou, Rong Ge* [[ICLR23]](https://arxiv.org/abs/2210.01019)
+  
+- **Analyzing Monotonic Linear Interpolation in Neural Network Loss Landscapes.** 
+
+  *James Lucas, Juhan Bae, Michael R. Zhang, Stanislav Fort, Richard Zemel, Roger Grosse* [[ICML21]](http://proceedings.mlr.press/v139/lucas21a/lucas21a.pdf)[[codes]](https://github.com/AtheMathmo/mli-release)
+  
+### Theory
+- **Explaining landscape connectivity of low-cost solutions for multilayer nets.**
+
+  *Rohith Kuditipudi, Xiang Wang, Holden Lee, Yi Zhang, Zhiyuan Li, Wei Hu, Sanjeev Arora, Rong Ge* [[NeurIPS19]](https://arxiv.org/pdf/1906.06247.pdf)
 
 ## Methods for rebasin
 - (Width, Depth)(Simulated Annealing) **The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks.**
