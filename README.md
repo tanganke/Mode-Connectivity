@@ -64,6 +64,10 @@ Please feel free to fork.
 - (Width, Depth)(Simulated Annealing) **The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks.**
 
   *Rahim Entezari, Hanie Sedghi, Olga Saukh, Behnam Neyshabur* [[ICLR22]](https://openreview.net/forum?id=dNigytemkL)[[codes]](https://github.com/rahimentezari/PermutationInvariance)
+
+- **Optimizing mode connectivity via neuron alignment.**
+
+  *N. Joseph Tatro, Pin-Yu Chen, Payel Das, Igor Melnyk, Prasanna Sattigeri, Rongjie Lai* [[NeurIPS19]](https://arxiv.org/pdf/2009.02439.pdf)[[codes]](https://github.com/IBM/NeuronAlignment)
   
 - 🔥 :thumbsup: (Three methods) **Git Re-Basin: Merging Models modulo Permutation Symmetries.** 
 
@@ -81,6 +85,10 @@ Please feel free to fork.
  - :thumbsup: [Stochastic Weight Averaging] **Averaging Weights Leads to Wider Optima and Better Generalization.** 
  
    *Pavel Izmailov, Dmitrii Podoprikhin, Timur Garipov, Dmitry Vetrov, Andrew Gordon Wilson* [[UAI18]](http://auai.org/uai2018/proceedings/papers/313.pdf)[[codes]](https://github.com/timgaripov/swa)
+
+- **Model fusion via optimal transport.**
+
+  *Singh, Sidak Pal and Jaggi, Martin* [[NeurIPS20]](https://proceedings.neurips.cc/paper/2020/file/fb2697869f56484404c8ceee2985b01d-Paper.pdf)[[codes]](https://github.com/sidak/otfusion)
 
 - [Averaging merge] **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time.** ![](https://img.shields.io/badge/Large_Model-green)
 
