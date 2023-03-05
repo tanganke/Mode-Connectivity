@@ -6,31 +6,16 @@ Please feel free to fork.
 
 ![](https://img.shields.io/badge/Resources-@CLeaR_Unimelb-red.svg) ![](https://img.shields.io/badge/License-@MIT-green.svg)
 
-## The concept of LMC
+## Geometric Properties
+
+### The LMC
+- **Topology and Geometry of Half-Rectified Network Optimization.**
+
+  *C. Daniel Freeman, Joan Bruna* [[ICLR17]](https://openreview.net/pdf?id=Bk0FWVcgx)
+
 - **Linear mode connectivity and the lottery ticket hypothesis.** ![](https://img.shields.io/badge/Linear_Connectivity-blue)
 
   *Jonathan Frankle, Gintare Karolina Dziugaite, Daniel Roy, Michael Carbin* [[ICML20]](http://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf)[[codes]](https://github.com/facebookresearch/open_lth)
-
-## Geometric Properties
-- **Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs.** ![](https://img.shields.io/badge/Nonlinear_Connectivity-blue)
-  
-  *Timur Garipov, Pavel Izmailov, Dmitrii Podoprikhin, Dmitry Vetrov, Andrew Gordon Wilson* [[Neurips18]](https://proceedings.neurips.cc/paper/2018/file/be3087e74e9100d4bc4c6268cdbe8456-Paper.pdf)[[codes]](https://github.com/timgaripov/dnn-mode-connectivity)
-
-- **Essentially No Barriers in Neural Network Energy Landscape.** ![](https://img.shields.io/badge/Nonlinear_Connectivity-blue)
-
-  *Felix Draxler, Kambis Veschgini, Manfred Salmhofer, Fred A. Hamprecht* [[ICML18]](http://proceedings.mlr.press/v80/draxler18a/draxler18a.pdf)[[codes]](https://github.com/fdraxler/PyTorch-AutoNEB)
-
-- **Large Scale Structure of Neural Network Loss Landscapes.**
-
-  *Stanislav Fort, Stanislaw Jastrzebski* [[NeurIPS19]](https://openreview.net/pdf?id=rJe_i4rxIS)
- 
-- **Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances.**
-
-  *Berfin Şimşek, François Ged, Arthur Jacot, Francesco Spadaro, Clément Hongler, Wulfram Gerstner, Johanni Brea* [[ICML21]](https://proceedings.mlr.press/v139/simsek21a/simsek21a.pdf)[[codes]](https://github.com/EPFL-LCN/pub_simsek2021_icml)
-  
-- (Initialisations) **Random initialisations performing above chance and how to find them.** 
-
-  *Frederik Benzing, Simon Schug, Robert Meier, Johannes von Oswald, Yassir Akram, Nicolas Zucchet, Laurence Aitchison, Angelika Steger* [[NeurIPS22 OPT]](https://arxiv.org/pdf/2209.07509.pdf)[[codes]](https://github.com/freedbee/permuted_initialisations)
 
 - (Functional behaviors of end points) **On Convexity and Linear Mode Connectivity in Neural Networks.** 
 
@@ -43,6 +28,31 @@ Please feel free to fork.
 - **Analyzing Monotonic Linear Interpolation in Neural Network Loss Landscapes.** 
 
   *James Lucas, Juhan Bae, Michael R. Zhang, Stanislav Fort, Richard Zemel, Roger Grosse* [[ICML21]](http://proceedings.mlr.press/v139/lucas21a/lucas21a.pdf)[[codes]](https://github.com/AtheMathmo/mli-release)
+
+### The Nonlienar MC
+- **Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs.** ![](https://img.shields.io/badge/Nonlinear_Connectivity-blue)
+  
+  *Timur Garipov, Pavel Izmailov, Dmitrii Podoprikhin, Dmitry Vetrov, Andrew Gordon Wilson* [[Neurips18]](https://proceedings.neurips.cc/paper/2018/file/be3087e74e9100d4bc4c6268cdbe8456-Paper.pdf)[[codes]](https://github.com/timgaripov/dnn-mode-connectivity)
+
+- **Essentially No Barriers in Neural Network Energy Landscape.** ![](https://img.shields.io/badge/Nonlinear_Connectivity-blue)
+
+  *Felix Draxler, Kambis Veschgini, Manfred Salmhofer, Fred A. Hamprecht* [[ICML18]](http://proceedings.mlr.press/v80/draxler18a/draxler18a.pdf)[[codes]](https://github.com/fdraxler/PyTorch-AutoNEB)
+
+- **Large Scale Structure of Neural Network Loss Landscapes.**
+
+  *Stanislav Fort, Stanislaw Jastrzebski* [[NeurIPS19]](https://openreview.net/pdf?id=rJe_i4rxIS)
+
+ - :eyes: **Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling.**
+  
+   *Gregory W. Benton, Wesley J. Maddox, Sanae Lotfi, Andrew Gordon Wilson* [[ICML21]](http://proceedings.mlr.press/v139/benton21a/benton21a.pdf)[[codes]](https://github.com/g-benton/loss-surface-simplexes)
+
+- **Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances.**
+
+  *Berfin Şimşek, François Ged, Arthur Jacot, Francesco Spadaro, Clément Hongler, Wulfram Gerstner, Johanni Brea* [[ICML21]](https://proceedings.mlr.press/v139/simsek21a/simsek21a.pdf)[[codes]](https://github.com/EPFL-LCN/pub_simsek2021_icml)
+  
+- (Initialisations) **Random initialisations performing above chance and how to find them.** 
+
+  *Frederik Benzing, Simon Schug, Robert Meier, Johannes von Oswald, Yassir Akram, Nicolas Zucchet, Laurence Aitchison, Angelika Steger* [[NeurIPS22 OPT]](https://arxiv.org/pdf/2209.07509.pdf)[[codes]](https://github.com/freedbee/permuted_initialisations)
 
 ## Methods for rebasin
 - (Width, Depth)(Simulated Annealing) **The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks.**
@@ -81,10 +91,6 @@ Please feel free to fork.
 - **Robust fine-tuning of zero-shot models.** ![](https://img.shields.io/badge/Large_Model-green)
 
   *Mitchell Wortsman, Gabriel Ilharco, Jong Wook Kim, Mike Li, Simon Kornblith, Rebecca Roelofs, Raphael Gontijo-Lopes, Hannaneh Hajishirzi, Ali Farhadi, Hongseok Namkoong, Ludwig Schmidt* [[CVPR22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wortsman_Robust_Fine-Tuning_of_Zero-Shot_Models_CVPR_2022_paper.pdf)[[codes]](https://github.com/mlfoundations/wise-ft)
-  
- - :eyes: **Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling.**
-  
-   *Gregory W. Benton, Wesley J. Maddox, Sanae Lotfi, Andrew Gordon Wilson* [[ICML21]](http://proceedings.mlr.press/v139/benton21a/benton21a.pdf)[[codes]](https://github.com/g-benton/loss-surface-simplexes)
 
 - [Fisher merge] **Merging Models with Fisher-Weighted Averaging.**
   
