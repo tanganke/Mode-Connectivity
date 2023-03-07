@@ -193,6 +193,11 @@ Please feel free to fork.
 - **Linear Connectivity Reveals Generalization Strategies.** 
   
   *Jeevesh Juneja, Rachit Bansal, Kyunghyun Cho, João Sedoc, Naomi Saphra* [[ICLR23]](https://arxiv.org/pdf/2205.12411.pdf)[[codes]](https://github.com/anonwhymoos/connectivity)
+
+## Interesting paper
+- **Editing models with task arithmetic.**
+
+  *Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi* [[ICLR23]](https://openreview.net/pdf?id=6t0Kwf8-jrj)[[codes]](https://github.com/mlfoundations/task_vectors)
   
 ## Tools
 - **Loss landscapes.** [[pypi]](https://pypi.org/project/loss-landscapes)
