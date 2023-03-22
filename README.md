@@ -85,6 +85,10 @@ Please feel free to fork.
  - :thumbsup: [Stochastic Weight Averaging] **Averaging Weights Leads to Wider Optima and Better Generalization.** 
  
    *Pavel Izmailov, Dmitrii Podoprikhin, Timur Garipov, Dmitry Vetrov, Andrew Gordon Wilson* [[UAI18]](http://auai.org/uai2018/proceedings/papers/313.pdf)[[codes]](https://github.com/timgaripov/swa)
+ 
+- **Bayesian Nonparametric Federated Learning of Neural Networks.**
+
+  *Mikhail Yurochkin, Mayank Agarwal, Soumya Ghosh, Kristjan Greenewald, Trong Nghia Hoang, and Yasaman Khazaeni.* [[ICML19]](https://htnghia87.github.io/files/icml19b.pdf)[[codes]](https://github.com/IBM/probabilistic-federated-neural-matching)
 
 - **Model fusion via optimal transport.**
 
