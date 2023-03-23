@@ -85,6 +85,10 @@ Please feel free to fork.
  - :thumbsup: [Stochastic Weight Averaging] **Averaging Weights Leads to Wider Optima and Better Generalization.** 
  
    *Pavel Izmailov, Dmitrii Podoprikhin, Timur Garipov, Dmitry Vetrov, Andrew Gordon Wilson* [[UAI18]](http://auai.org/uai2018/proceedings/papers/313.pdf)[[codes]](https://github.com/timgaripov/swa)
+   
+- **Subspace Inference for Bayesian Deep Learning.**
+
+  *Pavel Izmailov, Wesley J. Maddox, Polina Kirichenko, Timur Garipov, Dmitry Vetrov, Andrew Gordon Wilson.* [[UAI19]](http://auai.org/uai2019/proceedings/papers/435.pdf)[[codes]](https://github.com/wjmaddox/drbayes)
  
 - **Bayesian Nonparametric Federated Learning of Neural Networks.**
 
