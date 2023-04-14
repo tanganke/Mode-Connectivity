@@ -126,6 +126,10 @@ Please feel free to fork.
 
   *Aditya Kumar Akash, Sixu Li, Nicolás García Trillos* [[paper23]](https://openreview.net/pdf?id=qHbyR1MKG8K)[[codes]](https://openreview.net/forum?id=qHbyR1MKG8K)
 
+- **PopulAtion Parameter Averaging (PAPA).**
+
+ *Alexia Jolicoeur-Martineau, Emy Gervais, Kilian Fatras, Yan Zhang, Simon Lacoste-Julien* [[paper23]](https://arxiv.org/pdf/2304.03094.pdf)
+
 ## Pretrained model connectivity
 - **What is being transferred in transfer learning?** 
 
