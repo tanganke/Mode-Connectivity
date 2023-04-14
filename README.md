@@ -128,7 +128,7 @@ Please feel free to fork.
 
 - **PopulAtion Parameter Averaging (PAPA).**
 
- *Alexia Jolicoeur-Martineau, Emy Gervais, Kilian Fatras, Yan Zhang, Simon Lacoste-Julien* [[paper23]](https://arxiv.org/pdf/2304.03094.pdf)
+  *Alexia Jolicoeur-Martineau, Emy Gervais, Kilian Fatras, Yan Zhang, Simon Lacoste-Julien* [[paper23]](https://arxiv.org/pdf/2304.03094.pdf)
 
 ## Pretrained model connectivity
 - **What is being transferred in transfer learning?** 
