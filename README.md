@@ -130,6 +130,11 @@ Please feel free to fork.
 
   *Alexia Jolicoeur-Martineau, Emy Gervais, Kilian Fatras, Yan Zhang, Simon Lacoste-Julien* [[paper23]](https://arxiv.org/pdf/2304.03094.pdf)
 
+- **ZipIt! Merging Models from Different Tasks without Training.**
+
+  *George Stoica, Daniel Bolya, Jakob Bjorner, Taylor Hearn, and Judy Hoffman* [[paper23]](http://arxiv.org/abs/2305.03053)
+
+
 ## Pretrained model connectivity
 - **What is being transferred in transfer learning?** 
 
